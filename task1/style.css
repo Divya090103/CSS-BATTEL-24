@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background-image: url("realistic-background-futuristic-style_23-2149129125.avif");
+  background-image: url("istockphoto-1435226158-170667a.webp");
   /* background-position: center; */
   background-repeat: no-repeat;
   background-size:cover;
@@ -13,16 +13,14 @@ body{
 section{
   width: auto;
   height: auto;
-  background-color:darkblue;
+  background-color:rgb(5, 60, 80);
   display: flex;
   align-items: center;
   padding: 20px 20px 10px 20px;
   justify-content: center;
   margin-top: calc(50% - 45%);
 }
-.part1{
-  /* padding: 20px; */
-}
+
 .header ul li{
    display: inline-block;
    margin-right: 100px;
@@ -49,7 +47,7 @@ section{
   margin-top: 30px;
 }
 input{
-  background-color: rgb(86, 195, 232);
+  background-color: rgb(7, 90, 118);
   padding: 2%;
   border-radius:5px;
 }
@@ -68,7 +66,7 @@ input{
 button{
   margin-top: 10px;
   padding: 2%;
-  background-color: palevioletred;
+  background-color: rgb(124, 10, 48);
   color: #fff;
   border-radius: 10px;
 }
